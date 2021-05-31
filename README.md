@@ -3,7 +3,11 @@
 
 Group Members:
 Miguel Rodrigo Abundo
+
 Jo Simon Ambata
+
 Rudnick James Donaire
+
 Jose Lean Gaurana
+
 Dan Nicole Jacinto
